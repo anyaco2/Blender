@@ -1,2 +1,0 @@
-# Blender
-Работы из Blender
